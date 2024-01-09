@@ -1,0 +1,12 @@
+operators in c
+Unary Operators(+,-,++,--,sizeof)
+Arithmetic Operators
+Bitwise Operators
+Relational Operators
+Logical Operators
+Conditional Operators
+Assignment Operators
+//There is no Bodmas in c
+//There is no Bodmas in c
+
+Aritnmetic operators--------->+,-,/,%
